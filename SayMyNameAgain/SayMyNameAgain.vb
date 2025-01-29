@@ -1,4 +1,10 @@
-﻿Module SayMyNameAgain
+﻿'Malachi Marlow
+'Spring 2025
+'RCET2265
+'Say My Name Again
+'https://github.com/MalachiMarlow/SayMyNameAgain.git
+
+Module SayMyNameAgain
 
     Sub Main()
         Dim userInput As String
