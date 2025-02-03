@@ -4,6 +4,10 @@
 'Say My Name Again
 'https://github.com/MalachiMarlow/SayMyNameAgain.git
 
+Option Explicit On
+Option Compare Text
+Option Strict On
+
 Module SayMyNameAgain
 
     Sub Main()
